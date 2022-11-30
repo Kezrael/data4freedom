@@ -1,0 +1,14 @@
+{
+  "hash": "8016cd4178917f1debc523e8aba6ccac",
+  "result": {
+    "markdown": "---\ntitle: \"Fortune favors the bold\"\nauthor: \"Carlos de la Calle Arroyo\"\ndate: \"2022-11-28\"\ncategories: [news, packages]\nimage: \"fortune-cookies.jpg\"\n# highlight-style: ayu\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nfor(i in 1:3)\n  print(i)\n\ntest <- 1:5\n\ntest * 3\n```\n:::\n\n\n## Fortune favors the bold!\n\nOr so they say.\n\nThis is my first R post ever. I've spoused the idea of creating an R blog for quite some time. I did not \n\n## Why am I doing this?\n\nI've given quite some thought to the idea of creating a blog. Why did I think about inflicting such a pain onto me? Well, I've had (and already abandoned) a few blogs many years ago, mostly about random stuff, some writings and whatever I felt like sharing. This, however, is another kind of beast. As I read somewhere, might be I do like \n\n\n## What can you expect from here?\n\n\n## Not without R code\n\nI did not want to end the first post without some R code. As I thought what should I include, I remembered an old pet package of mine, `fortunes`. There is no reason why you should bother to learn about it, but if you are curious, it was some sort of thing I used to leave in my R code as an Easter Egg, in case someone read my code sometime later. Might even use it again in the near future. This package contains \"a collection of fortunes from the R community\". In particular, this was, and probably still is, my favourite one\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(fortunes)\n\nfortune(108)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n\nActually, I see it as part of my job to inflict R on people who are perfectly\nhappy to have never heard of it. Happiness doesn't equal proficient and\nefficient. In some cases the proficiency of a person serves a greater good than\ntheir momentary happiness.\n   -- Patrick Burns\n      R-help (April 2005)\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "R t ficial",
+    "section": "",
+    "text": "news\n\n\npackages\n\n\n\n\n\n\n\nCarlos de la Calle Arroyo\n\n\nNov 28, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carlos de la Calle Arroyo",
+    "section": "",
+    "text": "Education\n\n\nExperience\n\n\nSelected projects"
+  },
+  {
+    "objectID": "posts/1_fortunes/index.html",
+    "href": "posts/1_fortunes/index.html",
+    "title": "Fortune favors the bold",
+    "section": "",
+    "text": "for(i in 1:3)\n  print(i)\n\ntest <- 1:5\n\ntest * 3"
+  },
+  {
+    "objectID": "posts/1_fortunes/index.html#fortune-favors-the-bold",
+    "href": "posts/1_fortunes/index.html#fortune-favors-the-bold",
+    "title": "Fortune favors the bold",
+    "section": "Fortune favors the bold!",
+    "text": "Fortune favors the bold!\nOr so they say.\nThis is my first R post ever. I’ve spoused the idea of creating an R blog for quite some time. I did not"
+  },
+  {
+    "objectID": "posts/1_fortunes/index.html#why-am-i-doing-this",
+    "href": "posts/1_fortunes/index.html#why-am-i-doing-this",
+    "title": "Fortune favors the bold",
+    "section": "Why am I doing this?",
+    "text": "Why am I doing this?\nI’ve given quite some thought to the idea of creating a blog. Why did I think about inflicting such a pain onto me? Well, I’ve had (and already abandoned) a few blogs many years ago, mostly about random stuff, some writings and whatever I felt like sharing. This, however, is another kind of beast. As I read somewhere, might be I do like"
+  },
+  {
+    "objectID": "posts/1_fortunes/index.html#what-can-you-expect-from-here",
+    "href": "posts/1_fortunes/index.html#what-can-you-expect-from-here",
+    "title": "Fortune favors the bold",
+    "section": "What can you expect from here?",
+    "text": "What can you expect from here?"
+  },
+  {
+    "objectID": "posts/1_fortunes/index.html#not-without-r-code",
+    "href": "posts/1_fortunes/index.html#not-without-r-code",
+    "title": "Fortune favors the bold",
+    "section": "Not without R code",
+    "text": "Not without R code\nI did not want to end the first post without some R code. As I thought what should I include, I remembered an old pet package of mine, fortunes. There is no reason why you should bother to learn about it, but if you are curious, it was some sort of thing I used to leave in my R code as an Easter Egg, in case someone read my code sometime later. Might even use it again in the near future. This package contains “a collection of fortunes from the R community”. In particular, this was, and probably still is, my favourite one\n\nlibrary(fortunes)\n\nfortune(108)\n\n\nActually, I see it as part of my job to inflict R on people who are perfectly\nhappy to have never heard of it. Happiness doesn't equal proficient and\nefficient. In some cases the proficiency of a person serves a greater good than\ntheir momentary happiness.\n   -- Patrick Burns\n      R-help (April 2005)"
+  }
+]

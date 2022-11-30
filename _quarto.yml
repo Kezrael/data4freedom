@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Data for Freedom"
+  description: "Carlos de la Calle's website."
+  navbar:
+    # logo: "profile.jpg"
+    background: "#1C2929"
+    right:
+      - blog.qmd
+      - icon: github
+        href: https://github.com/Kezrael/
+      - icon: envelope
+        url: "mailto:carlos.calle.arroyo@gmail.com"
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+    highlight-style: nord
+
+
+

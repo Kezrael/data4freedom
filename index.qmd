@@ -1,0 +1,28 @@
+---
+title: "Carlos de la Calle Arroyo"
+# subtitle: "Carlos de la Calle Arroyo"
+image: profile.jpg
+about:
+  template: solana
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Kezrael
+    - icon: linkedin
+      text: LinkedIn
+      href: https://es.linkedin.com/in/carlos-de-la-calle-16ba8ab0/en
+    - icon: Envelope
+      text: E-mail
+      url: "mailto:carlos.calle.arroyo@gmail.com"
+
+---
+
+# Bio
+
+I'm Carlos de la Calle Arroyo, a PhD in statistic, which enjoys (sometimes too much) coding in R, ML and dataviz. I'm currently working at Navarra's University as a postdoc researcher with main interest in Optimal Experimental Design.
+
+# Education
+
+# Experience
+
+# Selected projects

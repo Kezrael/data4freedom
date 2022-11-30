@@ -1,0 +1,39 @@
+---
+title: "Fortune favors the bold"
+author: "Carlos de la Calle Arroyo"
+date: "2022-11-28"
+categories: [news, packages]
+image: "fortune-cookies.jpg"
+---
+
+
+## Fortune favors the bold!
+
+Or so they say.
+
+This is my first R post ever. I've spoused the idea of creating an R blog for quite some time. I did not 
+
+## Why am I doing this?
+
+I've given quite some thought to the idea of creating a blog. Why did I think about inflicting such a pain onto me? Well, I've had (and already abandoned) a few blogs many years ago, mostly about random stuff, some writings and whatever I felt like sharing. This, however, is another kind of beast. As I read somewhere, might be I do like 
+
+
+## What can you expect from here?
+
+
+## Not without R code
+
+I did not want to end the first post without some R code. As I thought what should I include, I remembered an old pet package of mine, `fortunes`. There is no reason why you should bother to learn about it, but if you are curious, it was some sort of thing I used to leave in my R code as an Easter Egg, in case someone read my code sometime later. Might even use it again in the near future. This package contains "a collection of fortunes from the R community". In particular, this was, and probably still is, my favourite one
+
+```{r}
+#| echo: true
+library(fortunes)
+
+fortune(108)
+```
+
+
+
+
+
+
